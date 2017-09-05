@@ -1,0 +1,3 @@
+channel: "#somechannel"
+nickname: "yournickname"
+oauth: "oauth:youroauthtoken"
